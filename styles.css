@@ -1,0 +1,40 @@
+html{
+    display:block;
+}
+h1{
+    color:#C71585;
+    font-family:'Calligraffitti', cursive;
+    font-size:70px;
+}
+body{
+    background-color:#ADD8E6;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+
+img{
+    border-radius:50%;
+    height:350px; 
+}
+#clue2{
+    font-family: 'Londrina Outline', cursive;
+    color:#ADD8E6;
+    font-size:45px;
+    
+}
+#secretimg{
+    height:300px;
+}
+button{
+    height:80px;
+    background-color:#8FBC8F;
+    font-family: 'Bungee Inline', cursive;
+    border-radius:40%;    
+}
+.yay{
+    font-size:80px;
+    font-family: 'Freckle Face', cursive;
+    color:#228B22;
+}
